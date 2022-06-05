@@ -2,8 +2,6 @@
  - amazonlinux:2
  - amazoncorretto:8
  - tomcat:9-jdk8-corretto
-```
-
 
 ### build
 ```
