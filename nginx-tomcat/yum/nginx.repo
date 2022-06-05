@@ -1,0 +1,5 @@
+[nginx]
+name=nginx repo
+baseurl=http://nginx.org/packages/mainline/amzn2/2/$basearch/
+gpgcheck=0
+enabled=1
